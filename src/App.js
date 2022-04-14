@@ -12,7 +12,7 @@ function Food({ name, picture, rating }) {
 
 const foodILike = [
   {
-    name: 'Kimchi',
+    name: 'Kimchis',
     image: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.1store.io%2FofficialProductImage%2F1587198787425-0712162682417814.png&f=1&nofb=1',
   },
   {
